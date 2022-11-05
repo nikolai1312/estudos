@@ -1,8 +1,15 @@
-<h1> Meu nome é nicolas, tenho 21 anos e sou estudante de análise e desenvolvimento de sistemas.<br>
-Esse é um repositório para exercícios feitos durante as aulas</h1>
+# Repositório de estudos 
+## Meu nome é Nicolas Evangelista, tenho 21 anos e sou estudante de ADS. 
+---
+### Aqui irei colocar os exercícios e os projetos completos feitos durantes meus estudos! 
+---
 
-<h3>Projetos feitos nas aulas da Alura</h3>
+Atualmente estou estudando: 
+* Python 🐍
+* Linguagem SQL 🗃️
+* Data science 📊
+* Paradigmas de programação 💻
 
-> status: Realizando o 7 days of code de Javascript e HTML/CSS. 
+
 
 
